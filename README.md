@@ -10,10 +10,10 @@ This is a resumed tutorial for Dispatch your game to Discord Store - Only comman
 <br>
 <img height="700" src="https://i.imgur.com/SkVdq3H.png"/>
 <br>
-3- Click in "Patch" and click in "Edit" click in "New" and add C:\DiscordGames
-4- Download Dispatch in Discord Developers - Documentation and put Dispatch.exe inside folder created above.
-5- Create a file "Config.json"
-6 - Paste and change this inside your config file.
+3- Click in "Patch" and click in "Edit" click in "New" and add C:\DiscordGames<br>
+4- Download Dispatch in Discord Developers - Documentation and put Dispatch.exe inside folder created above.<br>
+5- Create a file "Config.json"<br>
+6 - Paste and change this inside your config file.<br>
 ```
 {
   "application": {
