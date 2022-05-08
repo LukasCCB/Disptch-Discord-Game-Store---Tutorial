@@ -1,4 +1,4 @@
-# Disptch-Discord-Game-Store - Commands Tutorial
+# Dispatch-Discord-Game-Store - Commands Tutorial
 This is a resumed tutorial for Dispatch your game to Discord Store - Only commands
 
 # Configure Dispatch
